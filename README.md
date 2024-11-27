@@ -9,4 +9,5 @@ The designed software tool is extremely beneficial to the students' study proces
 > [!NOTE]
 > To simulate the circuit and verify the correctness of the obtained results, it is recommended to use [Proteus VSM Environment](https://www.labcenter.com/simulation)
 
+![{930B03EA-A781-41C3-9CEC-B5700353EC37}](https://github.com/user-attachments/assets/13319bd5-feba-45ba-934a-2a8d05b4db00)
 ![simulation](https://github.com/rx422/CID-Circuit-Tester/blob/master/examples/simulation.png)
